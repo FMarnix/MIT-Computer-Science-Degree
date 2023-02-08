@@ -18,19 +18,15 @@ Hope you enjoy feel free to fork, copy and make sugestions.
 - [Departmental Program](#departmental-program)
   - [Departmental Requirements](#departmental-requirements)
   - [Computer Science Requirements](#computer-science-requirements)
-  - [Core programming](#core-programming)
-  - [Core math](#core-math)
-  - [CS Tools](#cs-tools)
-  - [Core systems](#core-systems)
-  - [Core theory](#core-theory)
-  - [Core applications](#core-applications)
-  - [Core security](#core-security)
-- [Advanced CS](#advanced-cs)
-  - [Advanced programming](#advanced-programming)
-  - [Advanced systems](#advanced-systems)
-  - [Advanced theory](#advanced-theory)
-  - [Advanced math](#advanced-math)
-  
+  - [Computer Science Tracks](#computer-science-tracks)
+  - [Architecture](#architecture)
+  - [Computers and Society](#computers-and-society)
+  - [Human-Computer Interaction](#human-computer-interaction)
+  - [Programming](#programming)
+  - [Systems](#systems)
+  - [Theory](#theory)
+- [Artificial Intelligence + Decision Making Tracks](#artificial-intelligence-+-decision-making-tracks)
+- [Advanced Undergraduate Subjects](#electrical-engineering-tracks)
   ---
   
   ## General Institute Requirements (GIRs)
@@ -55,3 +51,17 @@ Hope you enjoy feel free to fork, copy and make sugestions.
   :-- | :--: | :--: | :--: | :--: | :--:
   [Introduction to Computer Science and Programming in Python 6.0001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/jvchSm9) | [Cert](https://courses.edx.org/certificates/4388003b1ca347a8afcf45e4033225c7)
   [Introduction To Computational Thinking And Data Science 6.0002](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) (closest to [6.1010 Fundamentals of Programming (6.009)](http://catalog.mit.edu/search/?P=6.1010) | 10 weeks | 15 hours/week | [6.0001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)|  | 
+
+### Computer Science Tracks
+
+### Architecture
+
+### Computers and Society
+
+### Human-Computer Interaction
+
+### Programming
+
+### Systems
+
+### Theory
