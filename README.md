@@ -26,14 +26,14 @@ Hope you enjoy feel free to fork, copy and make sugestions.
   - [Systems](#systems)
   - [Theory](#theory)
 - [Artificial Intelligence + Decision Making Tracks](#artificial-intelligence-+-decision-making-tracks)
-- [Advanced Undergraduate Subjects](#electrical-engineering-tracks)
+- [Advanced Undergraduate Subjects](#advanced-undergaduate-subjects)
+
   ---
   
   ## General Institute Requirements (GIRs)
   
   Courses | Duration | Effort | Prerequisites | Discussion | Cert/Rep 
   :-- | :--: | :--: | :--: | :--: | :--: 
-  [Networks 14.15J](https://ocw.mit.edu/courses/14-15j-networks-spring-2018/)| 6 weeks | 3 hours/week | none | | 
   [Single Variable Calculus 18.01SC](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/) | 15 weeks | 10 hours/week |   |  |
   [Multi Variable Calculus 18.02SC](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)| 15 weeks | 10 hours/week | Single Variable Calculus |  |  |
   [Physics I: Classical Mechanics 8.01SC](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/) | 12 weeks | 5 hours/week | - | |
@@ -75,3 +75,9 @@ Hope you enjoy feel free to fork, copy and make sugestions.
 ### Systems
 
 ### Theory
+
+## Advanced Undergraduate Subjects
+
+   Courses | Duration | Effort | Prerequisites | Discussion | Cert/Rep 
+  :-- | :--: | :--: | :--: | :--: | :--:
+  [Networks 14.15J](https://ocw.mit.edu/courses/14-15j-networks-spring-2018/)| 6 weeks | 3 hours/week | none | | 
