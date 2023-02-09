@@ -31,6 +31,14 @@ Hope you enjoy feel free to fork, copy and make sugestions.
   
   ## General Institute Requirements (GIRs)
   
+  Courses | Duration | Effort | Prerequisites | Discussion | Cert/Rep 
+  :-- | :--: | :--: | :--: | :--: | :--: 
+  [Networks 14.15J](https://ocw.mit.edu/courses/14-15j-networks-spring-2018/)| 6 weeks | 3 hours/week | none | | 
+  [Single Variable Calculus 18.01SC](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/) | 15 weeks | 10 hours/week |   |  |
+  [Multi Variable Calculus 18.02SC](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)| 15 weeks | 10 hours/week | Single Variable Calculus |  |  |
+  [Physics I: Classical Mechanics 8.01SC](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/) | 12 weeks | 5 hours/week | - | |
+  [Physics II: Electricity and Magnetism 8.02](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/) | 23 weeks | 5 hours/week | - | |
+  
   ## Departmental Program
   
   ### Departmental Requirements
