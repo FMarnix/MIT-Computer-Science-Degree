@@ -61,6 +61,7 @@ Hope you enjoy feel free to fork, copy and make sugestions.
   [Introduction To Computational Thinking And Data Science 6.0002](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) (closest to [6.1010 Fundamentals of Programming (6.009)](http://catalog.mit.edu/search/?P=6.1010) | 10 weeks | 15 hours/week | [6.0001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)|  | 
   [Elements Of Software Construction 6.0005](https://ocw.mit.edu/courses/6-005-elements-of-software-construction-fall-2008/)| 8 weeks | 2.5 hours/week | [6.0001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) and [6.0002](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)|  | 
   [Mathematics For Computer Science 6.042J](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/)| 13 weeks | 4.5 hours/week | [Single Variable Calculus 18.01SC](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/)|  | 
+   [Introduction to algorithms 6.0006](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/)| 8 weeks | 2.5 hours/week | |  |
 
 ### Computer Science Tracks
 
